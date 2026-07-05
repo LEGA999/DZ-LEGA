@@ -1,0 +1,6 @@
+{
+  "name": "DZ LEGA Launcher",
+  "description": "Algerian GTA SA RolePlay server launcher - DZ LEGA V5.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
